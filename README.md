@@ -10,7 +10,7 @@ Connect two micro:bits together and send Morse code messages over wires, like a 
 You'll need:
 - 2 BBC micro:bits
 - 3 crocodile clip leads
-- at least 1 USB lead for flashing the code
+- at least 1 micro USB lead for flashing the code
 - a computer
 - battery pack or USB lead for powering the second micro:bit
 
@@ -32,8 +32,7 @@ Send messages in Morse by wireless like an Edwardian!
 
 You'll need:
 - 2 BBC micro:bits
-- 3 crocodile clip leads
-- at least 1 USB lead for flashing the code
+- at least 1 micro USB lead for flashing the code
 - a computer
 - battery pack or USB lead for powering the second micro:bit
 
