@@ -1,5 +1,5 @@
 # Morse
-Some Morse code projects for the BBC micro:bit. 
+Some Python Morse code projects for the BBC micro:bit. 
 
 Based on https://microbit-micropython.readthedocs.io/en/latest/tutorials/network.html
 
